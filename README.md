@@ -6,10 +6,12 @@ A ideia é criar um efeito dinâmico onde palavras diferentes aparecem em sequê
 ## 💡 Demonstração
 
 A animação mostra uma palavra por vez:
-I'm a Artist
-I'm a Designer
-I'm a Developer
-I'm a Freelancer
+- I'm a Artist
+- I'm a Designer
+- I'm a Developer
+- I'm a Freelancer
+
+## Estrutura
 
 - `index.html`: contém a estrutura da página e os textos animados.
 - `styles.css`: responsável pela animação, layout e estilização.
