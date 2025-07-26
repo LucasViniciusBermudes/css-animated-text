@@ -6,7 +6,6 @@ A ideia é criar um efeito dinâmico onde palavras diferentes aparecem em sequê
 ## 💡 Demonstração
 
 A animação mostra uma palavra por vez:
-
 I'm a Artist
 I'm a Designer
 I'm a Developer
