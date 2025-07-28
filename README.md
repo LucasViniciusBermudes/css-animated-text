@@ -25,4 +25,4 @@ A animação mostra uma palavra por vez:
 
 1. Clone ou baixe este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/text-animation.git
+   https://github.com/LucasViniciusBermudes/css-animated-text.git
